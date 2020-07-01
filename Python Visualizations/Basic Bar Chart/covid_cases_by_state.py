@@ -1,3 +1,7 @@
+"""
+1. in order to use libraries in our program, we must first import them at the top of the file
+2. you can read more about methods of importing libraries in Python at https://www.geeksforgeeks.org/import-module-python/#:~:text=Import%20in%20python%20is%20similar,is%20not%20the%20only%20way.
+"""
 import pandas as pd
 import matplotlib.pyplot as plt
 
